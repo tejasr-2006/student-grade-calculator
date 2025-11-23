@@ -1,7 +1,7 @@
 # 🎓 Student Grade Calculator
 
 A simple Python mini project that calculates a student’s total marks, percentage, grade, and pass/fail status.  
-Ideal for beginners learning Python basics such as input/output, loops, and conditional logic.
+Updated with a custom grading scale.
 
 ---
 
@@ -23,7 +23,8 @@ Ideal for beginners learning Python basics such as input/output, loops, and cond
 | 70–79% | B |
 | 60–69% | C |
 | 50–59% | D |
-| Below 50% | F (Fail) |
+| 35–49% | P |
+| Below 35% | F (Fail) |
 
 ---
 

@@ -9,6 +9,8 @@ def calculate_grade(percentage):
         return "C"
     elif percentage >= 50:
         return "D"
+    elif percentage >= 35:
+        return "P"
     else:
         return "F"
 
